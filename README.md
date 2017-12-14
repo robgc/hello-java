@@ -1,0 +1,1 @@
+Puedes consultar el estado de la última construcción aquí: [![Build Status](https://travis-ci.org/robgc/hello-java.svg?branch=master)](https://travis-ci.org/robgc/hello-java)
